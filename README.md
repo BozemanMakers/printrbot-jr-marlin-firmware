@@ -1,6 +1,8 @@
-# Marlin 3D Printer Firmware
+# Marlin 3D Printer Firmware - Modified for Printrbot Jr V2
 
-<img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
+This is a copy of the Marlin firmware with the needed modifications to make use of a Ramps 1.4 board
+
+##
 
 Additional documentation can be found at [The Marlin Documentation Project](https://www.marlinfw.org/).
 Please test this firmware and inform us if it misbehaves in any way, volunteers are standing by!
